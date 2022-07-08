@@ -30,7 +30,7 @@
     "gatsby-transformer-json": "^2.2.20",
     "gatsby-transformer-remark": "^2.6.28",
     "gatsby-transformer-sharp": "^2.2.23",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
